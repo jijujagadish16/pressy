@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Articles
+  url: /articles/
+  
+- title: Blogs
+  url: /blog/
+  
+- title: Vuoto Labs
+  url: http://vuotolabs.com
+
+- title: Search
+  url: /search/
